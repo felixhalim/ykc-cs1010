@@ -21,4 +21,4 @@ String which says "Odd" or "Even"
 | `6665`       | `Odd`         |
 | `9680`       | `Even`        |
 | `4210`       | `Odd`         |
-| `1981`       | `Even`        |
+| `1982`       | `Even`        |
