@@ -10,7 +10,7 @@ Your job is to create a simple program which determine if given plate is odd or 
 
 ## Input
 
-4 digit integer
+4 digit positive integer
 
 ## Output
 
@@ -18,7 +18,7 @@ String which says "Odd" or "Even"
 
 | Sample Input | Sample Output |
 | ------------ | ------------- |
-| `6665`       | "Odd"         |
-| `9680`       | "Even"        |
-| `4210`       | "Odd"         |
-| `1981`       | "Even"        |
+| `6665`       | `Odd`         |
+| `9680`       | `Even`        |
+| `4210`       | `Odd`         |
+| `1981`       | `Even`        |
