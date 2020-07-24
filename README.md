@@ -7,6 +7,6 @@ If you found any bug or have any interesting programming problem, please make a 
 
 - **Felix Halim** - [felixhalim](https://github.com/felixhalim)
 
-- **Dipasukha Edbert** - [dipasukhaedbert](https://github.com/dipasukhaedbert)
+- **Hubertus Adhy Pratama** - [adhy-p](https://github.com/adhy-p)
 
 See also the list of [contributors](https://github.com/felixhalim/ykc-cs1010/contributors) who participated in this project.
